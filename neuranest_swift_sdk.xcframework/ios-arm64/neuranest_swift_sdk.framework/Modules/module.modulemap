@@ -1,0 +1,11 @@
+framework module neuranest_swift_sdk {
+  umbrella header "neuranest_swift_sdk.h"
+
+  export *
+  module * { export * }
+}
+
+module neuranest_swift_sdk.Swift {
+  header "neuranest_swift_sdk-Swift.h"
+  requires objc
+}

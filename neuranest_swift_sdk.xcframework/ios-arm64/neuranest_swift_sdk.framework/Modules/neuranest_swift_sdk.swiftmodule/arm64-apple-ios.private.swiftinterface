@@ -1,0 +1,28 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name neuranest_swift_sdk
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import CoreML
+import Foundation
+import Swift
+import UIKit
+import Vision
+import _Concurrency
+import _StringProcessing
+@_exported import neuranest_swift_sdk
+public protocol ModelPredictor {
+  var modelId: Swift.String { get }
+  func predict(images: [Swift.String : Any], mlModel: CoreML.MLModel, completion: @escaping ([Swift.String : Any]?) -> Swift.Void)
+}
+@_hasMissingDesignatedInitializers public class ModelResult {
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class NNModel {
+  public func predict(data: [Swift.String : Any], completion: @escaping (neuranest_swift_sdk.ModelResult) -> Swift.Void)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class ConfigurationManager {
+  public func getAPIKey() -> Swift.String?
+  public func getAPIPath(pathName: Swift.String) -> Foundation.URL?
+  @objc deinit
+}
