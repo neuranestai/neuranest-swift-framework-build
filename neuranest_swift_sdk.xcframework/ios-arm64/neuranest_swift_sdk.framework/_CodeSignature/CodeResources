@@ -22,15 +22,15 @@
 		</data>
 		<key>Modules/neuranest_swift_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		NrLhJ6/RTxk9Zh8rgyIpcmpn0fo=
+		S2s+yF/U8zUZc/iWNlNijUyIars=
 		</data>
 		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		BYNvvplGjRHm8GeBB8NlaH5mew4=
+		SuwmjLD4dVcqIh1MDT54rIm1/kk=
 		</data>
 		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		3Djzu1SiE16lpcqfn5NU82P/tZU=
+		+g/JWbtTYKhUaNVh3Xm42DRIDlI=
 		</data>
 		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		3Djzu1SiE16lpcqfn5NU82P/tZU=
+		+g/JWbtTYKhUaNVh3Xm42DRIDlI=
 		</data>
 		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		27wm7oHGm/XAHmMxWWCUahdhh3o=
+		+8X20oxMsIAscuGfFVpTCb4/YeE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -72,21 +72,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N+FhRhvzqyGFiD57H0Si73NSnKS+BA5NPKxTTzdIDX4=
+			s3o0V0pB7iJ2VwkmclpHITdV/3Idowj8U14PNeQZZVg=
 			</data>
 		</dict>
 		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h7b1f7SHc9SCK0wi7jILhxJRL3MhlxJB4NDhcwCFBAI=
+			ej58J274eYSSvspSy5hOupEWKUvWpbUtSf84I8wPXAI=
 			</data>
 		</dict>
 		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ru7NW+MQvOlhbYYk0aOJxomJ7lLwEXwnuSLeyw/R+q4=
+			vHIq1ktoqKDFBiGuOYHt8WV0NINEg4Qdv+p9Dm7LUrc=
 			</data>
 		</dict>
 		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -100,14 +100,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ru7NW+MQvOlhbYYk0aOJxomJ7lLwEXwnuSLeyw/R+q4=
+			vHIq1ktoqKDFBiGuOYHt8WV0NINEg4Qdv+p9Dm7LUrc=
 			</data>
 		</dict>
 		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			87y0tikdF+UCWrViWNQsXAuDyT0AVWIKDc9u9syQ+Hw=
+			nF93g7gDzNOaxhgSqZn6joZGqqn9volGpAyrwjtcHlc=
 			</data>
 		</dict>
 	</dict>
