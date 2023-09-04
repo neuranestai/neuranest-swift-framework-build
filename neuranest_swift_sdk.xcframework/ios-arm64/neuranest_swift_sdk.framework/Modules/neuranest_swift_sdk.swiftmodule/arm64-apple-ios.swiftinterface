@@ -21,7 +21,11 @@ public protocol ModelPredictor {
   public func predict(data: [Swift.String : Any], completion: @escaping (neuranest_swift_sdk.ModelResult) -> Swift.Void)
   @objc deinit
 }
+public struct SDKConfig {
+}
 @_hasMissingDesignatedInitializers public class ConfigurationManager {
+  public var config: neuranest_swift_sdk.SDKConfig?
+  public func initializeSDK(with config: neuranest_swift_sdk.SDKConfig)
   public func getAPIKey() -> Swift.String?
   public func getAPIPath(pathName: Swift.String) -> Foundation.URL?
   @objc deinit

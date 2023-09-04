@@ -1362,7 +1362,6 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 0,
             "isLet": true,
             "hasStorage": true,
             "accessors": [
@@ -1383,9 +1382,6 @@
                 "mangledName": "$s19neuranest_swift_sdk9SDKConfigV0C7VersionSSvg",
                 "moduleName": "neuranest_swift_sdk",
                 "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
                 "accessorKind": "get"
               }
             ]
@@ -1409,7 +1405,6 @@
             "declAttributes": [
               "HasStorage"
             ],
-            "fixedbinaryorder": 1,
             "isLet": true,
             "hasStorage": true,
             "accessors": [
@@ -1430,9 +1425,6 @@
                 "mangledName": "$s19neuranest_swift_sdk9SDKConfigV6apiKeySSvg",
                 "moduleName": "neuranest_swift_sdk",
                 "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
                 "accessorKind": "get"
               }
             ]
@@ -1467,14 +1459,8 @@
         "usr": "s:19neuranest_swift_sdk9SDKConfigV",
         "mangledName": "$s19neuranest_swift_sdk9SDKConfigV",
         "moduleName": "neuranest_swift_sdk",
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
+        "declAttributes": [
+          "AccessControl"
         ]
       },
       {
@@ -1509,7 +1495,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "AccessControl"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1617,6 +1604,9 @@
             "mangledName": "$s19neuranest_swift_sdk20ConfigurationManagerC13initializeSDK4withyAA9SDKConfigV_tF",
             "moduleName": "neuranest_swift_sdk",
             "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
             "funcSelfKind": "NonMutating"
           },
           {
@@ -2072,14 +2062,14 @@
     {
       "filePath": "\/Users\/ahmed\/neuranest\/neuranest-swift-sdk\/neuranest-swift-sdk\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 689,
+      "offset": 696,
       "length": 5,
       "value": "\"1.0\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/neuranest-swift-sdk\/neuranest-swift-sdk\/APIClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 1554,
+      "offset": 1575,
       "length": 5,
       "value": "false"
     }
