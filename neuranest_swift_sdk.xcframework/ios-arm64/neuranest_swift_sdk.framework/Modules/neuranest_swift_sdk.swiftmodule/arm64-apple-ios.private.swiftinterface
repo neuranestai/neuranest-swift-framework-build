@@ -17,7 +17,10 @@ public protocol ModelPredictor {
 @_hasMissingDesignatedInitializers public class ModelResult {
   @objc deinit
 }
-@_hasMissingDesignatedInitializers public class NNModel {
+public class NNModel {
+  final public let modelName: Swift.String
+  final public let modelId: Swift.String
+  public init(named modelName: Swift.String, modelId: Swift.String, configManager: neuranest_swift_sdk.ConfigurationManager, completion: @escaping (CoreML.MLModel?) -> Swift.Void)
   public func predict(data: [Swift.String : Any], completion: @escaping (neuranest_swift_sdk.ModelResult) -> Swift.Void)
   @objc deinit
 }

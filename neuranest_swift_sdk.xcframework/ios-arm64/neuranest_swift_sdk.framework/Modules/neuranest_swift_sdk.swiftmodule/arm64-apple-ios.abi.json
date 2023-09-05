@@ -904,7 +904,8 @@
             "moduleName": "neuranest_swift_sdk",
             "declAttributes": [
               "Final",
-              "HasStorage"
+              "HasStorage",
+              "AccessControl"
             ],
             "isLet": true,
             "hasStorage": true,
@@ -951,7 +952,8 @@
             "moduleName": "neuranest_swift_sdk",
             "declAttributes": [
               "Final",
-              "HasStorage"
+              "HasStorage",
+              "AccessControl"
             ],
             "isLet": true,
             "hasStorage": true,
@@ -1102,6 +1104,9 @@
             "usr": "s:19neuranest_swift_sdk7NNModelC5named7modelId13configManager10completionACSS_SSAA013ConfigurationI0CySo7MLModelCSgctcfc",
             "mangledName": "$s19neuranest_swift_sdk7NNModelC5named7modelId13configManager10completionACSS_SSAA013ConfigurationI0CySo7MLModelCSgctcfc",
             "moduleName": "neuranest_swift_sdk",
+            "declAttributes": [
+              "AccessControl"
+            ],
             "init_kind": "Designated"
           },
           {
@@ -1170,8 +1175,7 @@
         "isOpen": true,
         "declAttributes": [
           "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true
+        ]
       },
       {
         "kind": "Import",
