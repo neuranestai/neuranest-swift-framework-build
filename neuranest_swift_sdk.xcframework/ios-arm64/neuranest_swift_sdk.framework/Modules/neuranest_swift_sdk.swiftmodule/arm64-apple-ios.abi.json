@@ -1359,7 +1359,6 @@
             "mangledName": "$s19neuranest_swift_sdk9SDKConfigV0C7VersionSSvp",
             "moduleName": "neuranest_swift_sdk",
             "declAttributes": [
-              "HasInitialValue",
               "HasStorage",
               "AccessControl"
             ],
@@ -1453,7 +1452,9 @@
             "usr": "s:19neuranest_swift_sdk9SDKConfigV6apiKeyACSS_tcfc",
             "mangledName": "$s19neuranest_swift_sdk9SDKConfigV6apiKeyACSS_tcfc",
             "moduleName": "neuranest_swift_sdk",
-            "implicit": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
             "init_kind": "Designated"
           }
         ],
@@ -2063,15 +2064,8 @@
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/neuranest-swift-sdk\/neuranest-swift-sdk\/APIClient.swift",
-      "kind": "StringLiteral",
-      "offset": 703,
-      "length": 5,
-      "value": "\"1.0\""
-    },
-    {
-      "filePath": "\/Users\/ahmed\/neuranest\/neuranest-swift-sdk\/neuranest-swift-sdk\/APIClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 1589,
+      "offset": 1682,
       "length": 5,
       "value": "false"
     }

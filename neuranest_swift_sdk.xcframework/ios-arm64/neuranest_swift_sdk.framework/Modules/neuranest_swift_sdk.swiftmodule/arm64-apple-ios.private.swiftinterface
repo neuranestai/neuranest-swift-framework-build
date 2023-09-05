@@ -24,6 +24,7 @@ public protocol ModelPredictor {
 public struct SDKConfig {
   public let sdkVersion: Swift.String
   public let apiKey: Swift.String
+  public init(apiKey: Swift.String)
 }
 @_hasMissingDesignatedInitializers public class ConfigurationManager {
   public var config: neuranest_swift_sdk.SDKConfig?
