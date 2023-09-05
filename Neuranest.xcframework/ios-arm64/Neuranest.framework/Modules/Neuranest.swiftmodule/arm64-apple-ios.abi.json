@@ -140,29 +140,6 @@
       },
       {
         "kind": "Var",
-        "name": "ENV",
-        "printedName": "ENV",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:9Neuranest3ENVSSvp",
-        "mangledName": "$s9Neuranest3ENVSSvp",
-        "moduleName": "Neuranest",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
         "name": "HEADER_KEY",
         "printedName": "HEADER_KEY",
         "children": [
@@ -206,6 +183,316 @@
         ],
         "isLet": true,
         "hasStorage": true
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "validEnvs",
+        "printedName": "validEnvs",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "local",
+            "printedName": "local",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Neuranest.validEnvs.Type) -> Neuranest.validEnvs",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "validEnvs",
+                    "printedName": "Neuranest.validEnvs",
+                    "usr": "s:9Neuranest9validEnvsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Neuranest.validEnvs.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "validEnvs",
+                        "printedName": "Neuranest.validEnvs",
+                        "usr": "s:9Neuranest9validEnvsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9Neuranest9validEnvsO5localyA2CmF",
+            "mangledName": "$s9Neuranest9validEnvsO5localyA2CmF",
+            "moduleName": "Neuranest"
+          },
+          {
+            "kind": "Var",
+            "name": "dev",
+            "printedName": "dev",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Neuranest.validEnvs.Type) -> Neuranest.validEnvs",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "validEnvs",
+                    "printedName": "Neuranest.validEnvs",
+                    "usr": "s:9Neuranest9validEnvsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Neuranest.validEnvs.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "validEnvs",
+                        "printedName": "Neuranest.validEnvs",
+                        "usr": "s:9Neuranest9validEnvsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9Neuranest9validEnvsO3devyA2CmF",
+            "mangledName": "$s9Neuranest9validEnvsO3devyA2CmF",
+            "moduleName": "Neuranest"
+          },
+          {
+            "kind": "Var",
+            "name": "stage",
+            "printedName": "stage",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Neuranest.validEnvs.Type) -> Neuranest.validEnvs",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "validEnvs",
+                    "printedName": "Neuranest.validEnvs",
+                    "usr": "s:9Neuranest9validEnvsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Neuranest.validEnvs.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "validEnvs",
+                        "printedName": "Neuranest.validEnvs",
+                        "usr": "s:9Neuranest9validEnvsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9Neuranest9validEnvsO5stageyA2CmF",
+            "mangledName": "$s9Neuranest9validEnvsO5stageyA2CmF",
+            "moduleName": "Neuranest"
+          },
+          {
+            "kind": "Var",
+            "name": "sandbox",
+            "printedName": "sandbox",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Neuranest.validEnvs.Type) -> Neuranest.validEnvs",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "validEnvs",
+                    "printedName": "Neuranest.validEnvs",
+                    "usr": "s:9Neuranest9validEnvsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Neuranest.validEnvs.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "validEnvs",
+                        "printedName": "Neuranest.validEnvs",
+                        "usr": "s:9Neuranest9validEnvsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9Neuranest9validEnvsO7sandboxyA2CmF",
+            "mangledName": "$s9Neuranest9validEnvsO7sandboxyA2CmF",
+            "moduleName": "Neuranest"
+          },
+          {
+            "kind": "Var",
+            "name": "production",
+            "printedName": "production",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Neuranest.validEnvs.Type) -> Neuranest.validEnvs",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "validEnvs",
+                    "printedName": "Neuranest.validEnvs",
+                    "usr": "s:9Neuranest9validEnvsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Neuranest.validEnvs.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "validEnvs",
+                        "printedName": "Neuranest.validEnvs",
+                        "usr": "s:9Neuranest9validEnvsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9Neuranest9validEnvsO10productionyA2CmF",
+            "mangledName": "$s9Neuranest9validEnvsO10productionyA2CmF",
+            "moduleName": "Neuranest"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Neuranest.validEnvs?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "validEnvs",
+                    "printedName": "Neuranest.validEnvs",
+                    "usr": "s:9Neuranest9validEnvsO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9Neuranest9validEnvsO8rawValueACSgSS_tcfc",
+            "mangledName": "$s9Neuranest9validEnvsO8rawValueACSgSS_tcfc",
+            "moduleName": "Neuranest",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest9validEnvsO8rawValueSSvp",
+            "mangledName": "$s9Neuranest9validEnvsO8rawValueSSvp",
+            "moduleName": "Neuranest",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest9validEnvsO8rawValueSSvg",
+                "mangledName": "$s9Neuranest9validEnvsO8rawValueSSvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9Neuranest9validEnvsO",
+        "mangledName": "$s9Neuranest9validEnvsO",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -1178,9 +1465,53 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "env",
+            "printedName": "env",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest9SDKConfigV3envSSvp",
+            "mangledName": "$s9Neuranest9SDKConfigV3envSSvp",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest9SDKConfigV3envSSvg",
+                "mangledName": "$s9Neuranest9SDKConfigV3envSSvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(apiKey:)",
+            "printedName": "init(apiKey:env:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1193,11 +1524,17 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "validEnvs",
+                "printedName": "Neuranest.validEnvs",
+                "usr": "s:9Neuranest9validEnvsO"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9Neuranest9SDKConfigV6apiKeyACSS_tcfc",
-            "mangledName": "$s9Neuranest9SDKConfigV6apiKeyACSS_tcfc",
+            "usr": "s:9Neuranest9SDKConfigV6apiKey3envACSS_AA9validEnvsOtcfc",
+            "mangledName": "$s9Neuranest9SDKConfigV6apiKey3envACSS_AA9validEnvsOtcfc",
             "moduleName": "Neuranest",
             "declAttributes": [
               "AccessControl"
@@ -2267,23 +2604,86 @@
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 615,
-      "length": 7,
-      "value": "\"local\""
-    },
-    {
-      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
-      "kind": "StringLiteral",
-      "offset": 640,
+      "offset": 622,
       "length": 19,
       "value": "\"x-neuranestai-key\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 693,
+      "offset": 675,
       "length": 9,
       "value": "\"mlmodel\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 736,
+      "length": 7,
+      "value": "\"local\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 759,
+      "length": 5,
+      "value": "\"dev\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 782,
+      "length": 7,
+      "value": "\"stage\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 809,
+      "length": 9,
+      "value": "\"sandbox\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 841,
+      "length": 12,
+      "value": "\"production\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 736,
+      "length": 7,
+      "value": "\"local\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 759,
+      "length": 5,
+      "value": "\"dev\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 782,
+      "length": 7,
+      "value": "\"stage\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 809,
+      "length": 9,
+      "value": "\"sandbox\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 841,
+      "length": 12,
+      "value": "\"production\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelPredictor.swift",
@@ -2302,7 +2702,7 @@
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1030,
+      "offset": 1186,
       "length": 5,
       "value": "false"
     }

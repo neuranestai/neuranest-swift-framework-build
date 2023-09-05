@@ -10,6 +10,18 @@ import UIKit
 import Vision
 import _Concurrency
 import _StringProcessing
+public enum validEnvs : Swift.String {
+  case local
+  case dev
+  case stage
+  case sandbox
+  case production
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
 public protocol ModelPredictor {
   var modelId: Swift.String { get }
   func predict(images: [Swift.String : Any], mlModel: CoreML.MLModel, completion: @escaping ([Swift.String : Any]?) -> Swift.Void)
@@ -20,7 +32,8 @@ public protocol ModelPredictor {
 public struct SDKConfig {
   public let sdkVersion: Swift.String
   public let apiKey: Swift.String
-  public init(apiKey: Swift.String)
+  public let env: Swift.String
+  public init(apiKey: Swift.String, env: Neuranest.validEnvs)
 }
 public class ConfigurationManager {
   public var config: Neuranest.SDKConfig?
@@ -38,3 +51,6 @@ public class NNModel {
   public func predict(data: [Swift.String : Any], completion: @escaping (Neuranest.ModelResult) -> Swift.Void)
   @objc deinit
 }
+extension Neuranest.validEnvs : Swift.Equatable {}
+extension Neuranest.validEnvs : Swift.Hashable {}
+extension Neuranest.validEnvs : Swift.RawRepresentable {}
