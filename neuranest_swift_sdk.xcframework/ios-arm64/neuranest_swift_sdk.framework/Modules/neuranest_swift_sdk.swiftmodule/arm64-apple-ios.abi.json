@@ -1586,14 +1586,15 @@
             ]
           },
           {
-            "kind": "Function",
-            "name": "initializeSDK",
-            "printedName": "initializeSDK(with:)",
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(with:)",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
+                "name": "ConfigurationManager",
+                "printedName": "neuranest_swift_sdk.ConfigurationManager",
+                "usr": "s:19neuranest_swift_sdk20ConfigurationManagerC"
               },
               {
                 "kind": "TypeNominal",
@@ -1602,15 +1603,14 @@
                 "usr": "s:19neuranest_swift_sdk9SDKConfigV"
               }
             ],
-            "declKind": "Func",
-            "usr": "s:19neuranest_swift_sdk20ConfigurationManagerC13initializeSDK4withyAA9SDKConfigV_tF",
-            "mangledName": "$s19neuranest_swift_sdk20ConfigurationManagerC13initializeSDK4withyAA9SDKConfigV_tF",
+            "declKind": "Constructor",
+            "usr": "s:19neuranest_swift_sdk20ConfigurationManagerC4withAcA9SDKConfigV_tcfc",
+            "mangledName": "$s19neuranest_swift_sdk20ConfigurationManagerC4withAcA9SDKConfigV_tcfc",
             "moduleName": "neuranest_swift_sdk",
-            "isOpen": true,
             "declAttributes": [
               "AccessControl"
             ],
-            "funcSelfKind": "NonMutating"
+            "init_kind": "Designated"
           },
           {
             "kind": "Function",
@@ -1677,25 +1677,6 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "ConfigurationManager",
-                "printedName": "neuranest_swift_sdk.ConfigurationManager",
-                "usr": "s:19neuranest_swift_sdk20ConfigurationManagerC"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:19neuranest_swift_sdk20ConfigurationManagerCACycfc",
-            "mangledName": "$s19neuranest_swift_sdk20ConfigurationManagerCACycfc",
-            "moduleName": "neuranest_swift_sdk",
-            "implicit": true,
-            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
@@ -1705,8 +1686,7 @@
         "isOpen": true,
         "declAttributes": [
           "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true
+        ]
       },
       {
         "kind": "TypeDecl",
@@ -2065,7 +2045,7 @@
     {
       "filePath": "\/Users\/ahmed\/neuranest\/neuranest-swift-sdk\/neuranest-swift-sdk\/APIClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 1682,
+      "offset": 1611,
       "length": 5,
       "value": "false"
     }

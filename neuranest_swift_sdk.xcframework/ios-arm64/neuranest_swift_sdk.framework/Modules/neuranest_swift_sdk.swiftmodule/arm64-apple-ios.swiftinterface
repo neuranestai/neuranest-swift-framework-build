@@ -26,9 +26,9 @@ public struct SDKConfig {
   public let apiKey: Swift.String
   public init(apiKey: Swift.String)
 }
-@_hasMissingDesignatedInitializers public class ConfigurationManager {
+public class ConfigurationManager {
   public var config: neuranest_swift_sdk.SDKConfig?
-  public func initializeSDK(with config: neuranest_swift_sdk.SDKConfig)
+  public init(with config: neuranest_swift_sdk.SDKConfig)
   public func getAPIKey() -> Swift.String?
   public func getAPIPath(pathName: Swift.String) -> Foundation.URL?
   @objc deinit
