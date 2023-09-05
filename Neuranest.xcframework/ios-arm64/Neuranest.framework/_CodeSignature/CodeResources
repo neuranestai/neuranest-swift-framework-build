@@ -4,110 +4,110 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/neuranest_swift_sdk-Swift.h</key>
+		<key>Headers/Neuranest-Swift.h</key>
 		<data>
-		GG9//xiryccoHEvlzBkq+Twa+G0=
+		vS7kW7wfB/b711RFspnn2bd2zvo=
 		</data>
-		<key>Headers/neuranest_swift_sdk.h</key>
+		<key>Headers/Neuranest.h</key>
 		<data>
-		IoCBVmGF6y+5Ps6sRwvZTXdZ+wQ=
+		/Mr4LcKzsoshZKvWAt58nBwCup8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VAHbe/w4olXcKlPn7R3cOukEeVw=
+		6ZL4pGvg2FnRzTeFdY9PHUkMnak=
+		</data>
+		<key>Modules/Neuranest.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		hC72zdpknbUbRzPPSBYzECNkA0U=
+		</data>
+		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		qpNv/HV3kdhFNXlxJA9YkxD1l6Q=
+		</data>
+		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		MtBDo6Uem3hqT/s28QKCwohVoA8=
+		</data>
+		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		5gAmezewQ2kYTMwPTdV3GJ1QlB4=
+		</data>
+		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		MtBDo6Uem3hqT/s28QKCwohVoA8=
+		</data>
+		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		aUmWsfyoJURygJbIn9VIadwXaB4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		X58bF0VeOtg6Q+ELAcH3DnxJ3fQ=
-		</data>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		Bc9pvU1Vm+ajTfx5IKaL7LwrGIs=
-		</data>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
-		<data>
-		HQ/RRTaqsj8X5OeUKEiVNZ/j4HU=
-		</data>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<data>
-		xKZ6/N2kbXDhBIebLYYJhClUBLY=
-		</data>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<data>
-		0z7v5Id3d5KleYj+w0NKnNH+sTw=
-		</data>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<data>
-		xKZ6/N2kbXDhBIebLYYJhClUBLY=
-		</data>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<data>
-		CtVVmdZXI6KJEQEDG3mA1EhPppE=
+		PiHmdhi5SA4QbDP/S4xXoAEDB0U=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/neuranest_swift_sdk-Swift.h</key>
+		<key>Headers/Neuranest-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8inYPTQKKUNIztHiMTya7UJuDXe3SehVweW3XT9SpMo=
+			WKWIOHhSqR78SwwaakYCTDpDvwzBOLJDuzXWsmIVCts=
 			</data>
 		</dict>
-		<key>Headers/neuranest_swift_sdk.h</key>
+		<key>Headers/Neuranest.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+8mKSVG5btIqdt6dsxp4F3sD1CcmuAQUnBbbRtXR4zg=
+			u+PxsL1djpdOGCXohotz8CSBw5gRRKS8BvOu/ze/w7k=
+			</data>
+		</dict>
+		<key>Modules/Neuranest.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X9XYN4WPWJjrC9B1k3lZF/ncxzhrkto+YtMHiCQYCAk=
+			</data>
+		</dict>
+		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DGB/+M+nYP6q0gVIJSjVcNBIjSg5Ljy4Erj84A5jwTU=
+			</data>
+		</dict>
+		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			psQm/NCUx86YNbBadv6mn3Yf1rA3yjr1gqzWXy6RAWA=
+			</data>
+		</dict>
+		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GNpveQYh0mkxa8/7OcUQC4oifDZik8iMEIuVY2W1G2A=
+			</data>
+		</dict>
+		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			psQm/NCUx86YNbBadv6mn3Yf1rA3yjr1gqzWXy6RAWA=
+			</data>
+		</dict>
+		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wm6T5rNDN2IJiZyu6/Vj++igG6Cz84H+TI2zQBeLW20=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rCgD/G6C9ocLnyLerky4cCf+Hf3uJr4nEQIQFIkMSeY=
-			</data>
-		</dict>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QnrIwqFzNva01CyJGIePTsmuk/zn8aqihPhVKTTOxlY=
-			</data>
-		</dict>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			v9jvoNTqsq3wuMv/yWyFX8XN41nGgQSv39RMJosWNZk=
-			</data>
-		</dict>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			itWhqjWfpTUXmYFQrdraH0p8SReiTVvg3u53rOOsbsk=
-			</data>
-		</dict>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aH9+nXwivYpe1d0nvrdNeIxqjkfqv0rbtYD+3My0MR8=
-			</data>
-		</dict>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			itWhqjWfpTUXmYFQrdraH0p8SReiTVvg3u53rOOsbsk=
-			</data>
-		</dict>
-		<key>Modules/neuranest_swift_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DvyQJqlHjt+RX7zizdSGNk2T+oosCop2EoiF5X0lvEA=
+			mIYMu37nRJdRE6D/wfMhhkTjoCvNW7vFOGcZ3HHS2ag=
 			</data>
 		</dict>
 	</dict>

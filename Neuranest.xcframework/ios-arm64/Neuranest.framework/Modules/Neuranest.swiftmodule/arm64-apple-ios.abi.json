@@ -1,0 +1,2310 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Var",
+        "name": "APIEndpoint",
+        "printedName": "APIEndpoint",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Dictionary",
+            "printedName": "[Swift.String : Swift.String]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:SD"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9Neuranest11APIEndpointSDyS2SGvp",
+        "mangledName": "$s9Neuranest11APIEndpointSDyS2SGvp",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "APIPaths",
+        "printedName": "APIPaths",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Dictionary",
+            "printedName": "[Swift.String : Swift.String]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:SD"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9Neuranest8APIPathsSDyS2SGvp",
+        "mangledName": "$s9Neuranest8APIPathsSDyS2SGvp",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "MODEL_LOOKUP",
+        "printedName": "MODEL_LOOKUP",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Dictionary",
+            "printedName": "[Swift.String : Swift.String]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "usr": "s:SD"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9Neuranest12MODEL_LOOKUPSDyS2SGvp",
+        "mangledName": "$s9Neuranest12MODEL_LOOKUPSDyS2SGvp",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "REQUEST_TIMEOUT",
+        "printedName": "REQUEST_TIMEOUT",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Double",
+            "printedName": "Swift.Double",
+            "usr": "s:Sd"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9Neuranest15REQUEST_TIMEOUTSdvp",
+        "mangledName": "$s9Neuranest15REQUEST_TIMEOUTSdvp",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "ENV",
+        "printedName": "ENV",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9Neuranest3ENVSSvp",
+        "mangledName": "$s9Neuranest3ENVSSvp",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "HEADER_KEY",
+        "printedName": "HEADER_KEY",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9Neuranest10HEADER_KEYSSvp",
+        "mangledName": "$s9Neuranest10HEADER_KEYSSvp",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "ML_FILE_EXTENSION",
+        "printedName": "ML_FILE_EXTENSION",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9Neuranest17ML_FILE_EXTENSIONSSvp",
+        "mangledName": "$s9Neuranest17ML_FILE_EXTENSIONSSvp",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Neuranest"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Neuranest"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "Neuranest"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ModelPredictor",
+        "printedName": "ModelPredictor",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "modelId",
+            "printedName": "modelId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest14ModelPredictorP7modelIdSSvp",
+            "mangledName": "$s9Neuranest14ModelPredictorP7modelIdSSvp",
+            "moduleName": "Neuranest",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest14ModelPredictorP7modelIdSSvg",
+                "mangledName": "$s9Neuranest14ModelPredictorP7modelIdSSvg",
+                "moduleName": "Neuranest",
+                "genericSig": "<τ_0_0 where τ_0_0 : Neuranest.ModelPredictor>",
+                "sugared_genericSig": "<Self where Self : Neuranest.ModelPredictor>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "predict",
+            "printedName": "predict(images:mlModel:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "MLModel",
+                "printedName": "CoreML.MLModel",
+                "usr": "c:objc(cs)MLModel"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "([Swift.String : Any]?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.String : Any]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dictionary",
+                        "printedName": "[Swift.String : Any]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ProtocolComposition",
+                            "printedName": "Any"
+                          }
+                        ],
+                        "usr": "s:SD"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest14ModelPredictorP7predict6images02mlB010completionySDySSypG_So7MLModelCyAHSgctF",
+            "mangledName": "$s9Neuranest14ModelPredictorP7predict6images02mlB010completionySDySSypG_So7MLModelCyAHSgctF",
+            "moduleName": "Neuranest",
+            "genericSig": "<τ_0_0 where τ_0_0 : Neuranest.ModelPredictor>",
+            "sugared_genericSig": "<Self where Self : Neuranest.ModelPredictor>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:9Neuranest14ModelPredictorP",
+        "mangledName": "$s9Neuranest14ModelPredictorP",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ResNetPredictor",
+        "printedName": "ResNetPredictor",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "modelId",
+            "printedName": "modelId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest15ResNetPredictorC7modelIdSSvp",
+            "mangledName": "$s9Neuranest15ResNetPredictorC7modelIdSSvp",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest15ResNetPredictorC7modelIdSSvg",
+                "mangledName": "$s9Neuranest15ResNetPredictorC7modelIdSSvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest15ResNetPredictorC7modelIdSSvs",
+                "mangledName": "$s9Neuranest15ResNetPredictorC7modelIdSSvs",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest15ResNetPredictorC7modelIdSSvM",
+                "mangledName": "$s9Neuranest15ResNetPredictorC7modelIdSSvM",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "predict",
+            "printedName": "predict(images:mlModel:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "MLModel",
+                "printedName": "CoreML.MLModel",
+                "usr": "c:objc(cs)MLModel"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "([Swift.String : Any]?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.String : Any]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dictionary",
+                        "printedName": "[Swift.String : Any]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ProtocolComposition",
+                            "printedName": "Any"
+                          }
+                        ],
+                        "usr": "s:SD"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest15ResNetPredictorC7predict6images7mlModel10completionySDySSypG_So7MLModelCyAHSgctF",
+            "mangledName": "$s9Neuranest15ResNetPredictorC7predict6images7mlModel10completionySDySSypG_So7MLModelCyAHSgctF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ResNetPredictor",
+                "printedName": "Neuranest.ResNetPredictor",
+                "usr": "s:9Neuranest15ResNetPredictorC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9Neuranest15ResNetPredictorCACycfc",
+            "mangledName": "$s9Neuranest15ResNetPredictorCACycfc",
+            "moduleName": "Neuranest",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9Neuranest15ResNetPredictorC",
+        "mangledName": "$s9Neuranest15ResNetPredictorC",
+        "moduleName": "Neuranest",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "ModelPredictor",
+            "printedName": "ModelPredictor",
+            "usr": "s:9Neuranest14ModelPredictorP",
+            "mangledName": "$s9Neuranest14ModelPredictorP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "YOLOv3TinyPredictor",
+        "printedName": "YOLOv3TinyPredictor",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "modelId",
+            "printedName": "modelId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest19YOLOv3TinyPredictorC7modelIdSSvp",
+            "mangledName": "$s9Neuranest19YOLOv3TinyPredictorC7modelIdSSvp",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest19YOLOv3TinyPredictorC7modelIdSSvg",
+                "mangledName": "$s9Neuranest19YOLOv3TinyPredictorC7modelIdSSvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest19YOLOv3TinyPredictorC7modelIdSSvs",
+                "mangledName": "$s9Neuranest19YOLOv3TinyPredictorC7modelIdSSvs",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest19YOLOv3TinyPredictorC7modelIdSSvM",
+                "mangledName": "$s9Neuranest19YOLOv3TinyPredictorC7modelIdSSvM",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "predict",
+            "printedName": "predict(images:mlModel:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "MLModel",
+                "printedName": "CoreML.MLModel",
+                "usr": "c:objc(cs)MLModel"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "([Swift.String : Any]?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.String : Any]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dictionary",
+                        "printedName": "[Swift.String : Any]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ProtocolComposition",
+                            "printedName": "Any"
+                          }
+                        ],
+                        "usr": "s:SD"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest19YOLOv3TinyPredictorC7predict6images7mlModel10completionySDySSypG_So7MLModelCyAHSgctF",
+            "mangledName": "$s9Neuranest19YOLOv3TinyPredictorC7predict6images7mlModel10completionySDySSypG_So7MLModelCyAHSgctF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "YOLOv3TinyPredictor",
+                "printedName": "Neuranest.YOLOv3TinyPredictor",
+                "usr": "s:9Neuranest19YOLOv3TinyPredictorC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9Neuranest19YOLOv3TinyPredictorCACycfc",
+            "mangledName": "$s9Neuranest19YOLOv3TinyPredictorCACycfc",
+            "moduleName": "Neuranest",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9Neuranest19YOLOv3TinyPredictorC",
+        "mangledName": "$s9Neuranest19YOLOv3TinyPredictorC",
+        "moduleName": "Neuranest",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "ModelPredictor",
+            "printedName": "ModelPredictor",
+            "usr": "s:9Neuranest14ModelPredictorP",
+            "mangledName": "$s9Neuranest14ModelPredictorP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PredictorFactory",
+        "printedName": "PredictorFactory",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "predictor",
+            "printedName": "predictor(for:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Neuranest.ModelPredictor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ModelPredictor",
+                    "printedName": "Neuranest.ModelPredictor",
+                    "usr": "s:9Neuranest14ModelPredictorP"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest16PredictorFactoryO9predictor3forAA05ModelB0_pSgSS_tFZ",
+            "mangledName": "$s9Neuranest16PredictorFactoryO9predictor3forAA05ModelB0_pSgSS_tFZ",
+            "moduleName": "Neuranest",
+            "static": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9Neuranest16PredictorFactoryO",
+        "mangledName": "$s9Neuranest16PredictorFactoryO",
+        "moduleName": "Neuranest",
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ModelResult",
+        "printedName": "ModelResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "data",
+            "printedName": "data",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest11ModelResultC4dataSDySSypGvp",
+            "mangledName": "$s9Neuranest11ModelResultC4dataSDySSypGvp",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest11ModelResultC4dataSDySSypGvg",
+                "mangledName": "$s9Neuranest11ModelResultC4dataSDySSypGvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(data:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ModelResult",
+                "printedName": "Neuranest.ModelResult",
+                "usr": "s:9Neuranest11ModelResultC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9Neuranest11ModelResultC4dataACSDySSypG_tcfc",
+            "mangledName": "$s9Neuranest11ModelResultC4dataACSDySSypG_tcfc",
+            "moduleName": "Neuranest",
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "convertYoloOutputToResNetInput",
+            "printedName": "convertYoloOutputToResNetInput(originalImage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[UIKit.UIImage]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[UIKit.UIImage]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest11ModelResultC30convertYoloOutputToResNetInput13originalImageSaySo7UIImageCGSgAG_tF",
+            "mangledName": "$s9Neuranest11ModelResultC30convertYoloOutputToResNetInput13originalImageSaySo7UIImageCGSgAG_tF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9Neuranest11ModelResultC",
+        "mangledName": "$s9Neuranest11ModelResultC",
+        "moduleName": "Neuranest",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "Neuranest"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Neuranest"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Neuranest"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "Neuranest"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SDKConfig",
+        "printedName": "SDKConfig",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "sdkVersion",
+            "printedName": "sdkVersion",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest9SDKConfigV10sdkVersionSSvp",
+            "mangledName": "$s9Neuranest9SDKConfigV10sdkVersionSSvp",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest9SDKConfigV10sdkVersionSSvg",
+                "mangledName": "$s9Neuranest9SDKConfigV10sdkVersionSSvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "apiKey",
+            "printedName": "apiKey",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest9SDKConfigV6apiKeySSvp",
+            "mangledName": "$s9Neuranest9SDKConfigV6apiKeySSvp",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest9SDKConfigV6apiKeySSvg",
+                "mangledName": "$s9Neuranest9SDKConfigV6apiKeySSvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(apiKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SDKConfig",
+                "printedName": "Neuranest.SDKConfig",
+                "usr": "s:9Neuranest9SDKConfigV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9Neuranest9SDKConfigV6apiKeyACSS_tcfc",
+            "mangledName": "$s9Neuranest9SDKConfigV6apiKeyACSS_tcfc",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:9Neuranest9SDKConfigV",
+        "mangledName": "$s9Neuranest9SDKConfigV",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ConfigurationManager",
+        "printedName": "ConfigurationManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "config",
+            "printedName": "config",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Neuranest.SDKConfig?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SDKConfig",
+                    "printedName": "Neuranest.SDKConfig",
+                    "usr": "s:9Neuranest9SDKConfigV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest20ConfigurationManagerC6configAA9SDKConfigVSgvp",
+            "mangledName": "$s9Neuranest20ConfigurationManagerC6configAA9SDKConfigVSgvp",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Neuranest.SDKConfig?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SDKConfig",
+                        "printedName": "Neuranest.SDKConfig",
+                        "usr": "s:9Neuranest9SDKConfigV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest20ConfigurationManagerC6configAA9SDKConfigVSgvg",
+                "mangledName": "$s9Neuranest20ConfigurationManagerC6configAA9SDKConfigVSgvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Neuranest.SDKConfig?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SDKConfig",
+                        "printedName": "Neuranest.SDKConfig",
+                        "usr": "s:9Neuranest9SDKConfigV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest20ConfigurationManagerC6configAA9SDKConfigVSgvs",
+                "mangledName": "$s9Neuranest20ConfigurationManagerC6configAA9SDKConfigVSgvs",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest20ConfigurationManagerC6configAA9SDKConfigVSgvM",
+                "mangledName": "$s9Neuranest20ConfigurationManagerC6configAA9SDKConfigVSgvM",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ConfigurationManager",
+                "printedName": "Neuranest.ConfigurationManager",
+                "usr": "s:9Neuranest20ConfigurationManagerC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SDKConfig",
+                "printedName": "Neuranest.SDKConfig",
+                "usr": "s:9Neuranest9SDKConfigV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9Neuranest20ConfigurationManagerC4withAcA9SDKConfigV_tcfc",
+            "mangledName": "$s9Neuranest20ConfigurationManagerC4withAcA9SDKConfigV_tcfc",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getAPIKey",
+            "printedName": "getAPIKey()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest20ConfigurationManagerC9getAPIKeySSSgyF",
+            "mangledName": "$s9Neuranest20ConfigurationManagerC9getAPIKeySSSgyF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAPIPath",
+            "printedName": "getAPIPath(pathName:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.URL?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest20ConfigurationManagerC10getAPIPath8pathName10Foundation3URLVSgSS_tF",
+            "mangledName": "$s9Neuranest20ConfigurationManagerC10getAPIPath8pathName10Foundation3URLVSgSS_tF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9Neuranest20ConfigurationManagerC",
+        "mangledName": "$s9Neuranest20ConfigurationManagerC",
+        "moduleName": "Neuranest",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "APIClient",
+        "printedName": "APIClient",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "configManager",
+            "printedName": "configManager",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ConfigurationManager",
+                "printedName": "Neuranest.ConfigurationManager",
+                "usr": "s:9Neuranest20ConfigurationManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest9APIClientC13configManagerAA013ConfigurationD0Cvp",
+            "mangledName": "$s9Neuranest9APIClientC13configManagerAA013ConfigurationD0Cvp",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "Final",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ConfigurationManager",
+                    "printedName": "Neuranest.ConfigurationManager",
+                    "usr": "s:9Neuranest20ConfigurationManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest9APIClientC13configManagerAA013ConfigurationD0Cvg",
+                "mangledName": "$s9Neuranest9APIClientC13configManagerAA013ConfigurationD0Cvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(configManager:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "APIClient",
+                "printedName": "Neuranest.APIClient",
+                "usr": "s:9Neuranest9APIClientC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ConfigurationManager",
+                "printedName": "Neuranest.ConfigurationManager",
+                "usr": "s:9Neuranest20ConfigurationManagerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9Neuranest9APIClientC13configManagerAcA013ConfigurationD0C_tcfc",
+            "mangledName": "$s9Neuranest9APIClientC13configManagerAcA013ConfigurationD0C_tcfc",
+            "moduleName": "Neuranest",
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "downloadModel",
+            "printedName": "downloadModel(modelId:isCustomerModel:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Foundation.Data?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Data?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Data",
+                        "printedName": "Foundation.Data",
+                        "usr": "s:10Foundation4DataV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest9APIClientC13downloadModel7modelId010isCustomerD010completionySSSg_Sby10Foundation4DataVSgctF",
+            "mangledName": "$s9Neuranest9APIClientC13downloadModel7modelId010isCustomerD010completionySSSg_Sby10Foundation4DataVSgctF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "uploadCustomerModel",
+            "printedName": "uploadCustomerModel(modelName:modelId:customerID:modelFileURL:customerMetadata:modelMetadata:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest9APIClientC19uploadCustomerModel9modelName0F2Id10customerID0F7FileURL0I8Metadata0fM010completionySS_SSSgAL10Foundation0L0VSDyS2SGSgAQyALctF",
+            "mangledName": "$s9Neuranest9APIClientC19uploadCustomerModel9modelName0F2Id10customerID0F7FileURL0I8Metadata0fM010completionySS_SSSgAL10Foundation0L0VSDyS2SGSgAQyALctF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9Neuranest9APIClientC",
+        "mangledName": "$s9Neuranest9APIClientC",
+        "moduleName": "Neuranest",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NNModel",
+        "printedName": "NNModel",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "modelName",
+            "printedName": "modelName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest7NNModelC9modelNameSSvp",
+            "mangledName": "$s9Neuranest7NNModelC9modelNameSSvp",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest7NNModelC9modelNameSSvg",
+                "mangledName": "$s9Neuranest7NNModelC9modelNameSSvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "modelId",
+            "printedName": "modelId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest7NNModelC7modelIdSSvp",
+            "mangledName": "$s9Neuranest7NNModelC7modelIdSSvp",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest7NNModelC7modelIdSSvg",
+                "mangledName": "$s9Neuranest7NNModelC7modelIdSSvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "model",
+            "printedName": "model",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreML.MLModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MLModel",
+                    "printedName": "CoreML.MLModel",
+                    "usr": "c:objc(cs)MLModel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest7NNModelC5modelSo7MLModelCSgvp",
+            "mangledName": "$s9Neuranest7NNModelC5modelSo7MLModelCSgvp",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "SetterAccess"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CoreML.MLModel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MLModel",
+                        "printedName": "CoreML.MLModel",
+                        "usr": "c:objc(cs)MLModel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest7NNModelC5modelSo7MLModelCSgvg",
+                "mangledName": "$s9Neuranest7NNModelC5modelSo7MLModelCSgvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(named:modelId:configManager:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NNModel",
+                "printedName": "Neuranest.NNModel",
+                "usr": "s:9Neuranest7NNModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ConfigurationManager",
+                "printedName": "Neuranest.ConfigurationManager",
+                "usr": "s:9Neuranest20ConfigurationManagerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9Neuranest7NNModelC5named7modelId13configManagerACSS_SSAA013ConfigurationG0Ctcfc",
+            "mangledName": "$s9Neuranest7NNModelC5named7modelId13configManagerACSS_SSAA013ConfigurationG0Ctcfc",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "localURLForModel",
+            "printedName": "localURLForModel()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest7NNModelC16localURLForModel10Foundation3URLVyF",
+            "mangledName": "$s9Neuranest7NNModelC16localURLForModel10Foundation3URLVyF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "modelExistsLocally",
+            "printedName": "modelExistsLocally()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest7NNModelC18modelExistsLocallySbyF",
+            "mangledName": "$s9Neuranest7NNModelC18modelExistsLocallySbyF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieveLocalModel",
+            "printedName": "retrieveLocalModel()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreML.MLModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MLModel",
+                    "printedName": "CoreML.MLModel",
+                    "usr": "c:objc(cs)MLModel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest7NNModelC18retrieveLocalModelSo7MLModelCSgyF",
+            "mangledName": "$s9Neuranest7NNModelC18retrieveLocalModelSo7MLModelCSgyF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "saveModel",
+            "printedName": "saveModel(data:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.URL?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest7NNModelC9saveModel4data10Foundation3URLVSgAF4DataV_tF",
+            "mangledName": "$s9Neuranest7NNModelC9saveModel4data10Foundation3URLVSgAF4DataV_tF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "deleteModel",
+            "printedName": "deleteModel()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest7NNModelC11deleteModelSbyF",
+            "mangledName": "$s9Neuranest7NNModelC11deleteModelSbyF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getModel",
+            "printedName": "getModel(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CoreML.MLModel?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CoreML.MLModel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MLModel",
+                        "printedName": "CoreML.MLModel",
+                        "usr": "c:objc(cs)MLModel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest7NNModelC8getModel10completionyySo7MLModelCSgc_tF",
+            "mangledName": "$s9Neuranest7NNModelC8getModel10completionyySo7MLModelCSgc_tF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "loadModel",
+            "printedName": "loadModel(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CoreML.MLModel?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CoreML.MLModel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MLModel",
+                        "printedName": "CoreML.MLModel",
+                        "usr": "c:objc(cs)MLModel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest7NNModelC9loadModel10completionyySo7MLModelCSgc_tF",
+            "mangledName": "$s9Neuranest7NNModelC9loadModel10completionyySo7MLModelCSgc_tF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "predict",
+            "printedName": "predict(data:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Neuranest.ModelResult) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ModelResult",
+                    "printedName": "Neuranest.ModelResult",
+                    "usr": "s:9Neuranest11ModelResultC"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9Neuranest7NNModelC7predict4data10completionySDySSypG_yAA11ModelResultCctF",
+            "mangledName": "$s9Neuranest7NNModelC7predict4data10completionySDySSypG_yAA11ModelResultCctF",
+            "moduleName": "Neuranest",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9Neuranest7NNModelC",
+        "mangledName": "$s9Neuranest7NNModelC",
+        "moduleName": "Neuranest",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "Dictionary",
+      "offset": 36,
+      "length": 135,
+      "value": "[(\"local\", \"http:\/\/127.0.0.1:8080\"), (\"dev\", \"https:\/\/dev.api.neuranestai.com\"), (\"prod\", \"https:\/\/prod.api.neuranestai.com\")]"
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "Dictionary",
+      "offset": 206,
+      "length": 201,
+      "value": "[(\"listModels\", \"\/model\"), (\"getModel\", \"\/model\"), (\"getModelMetaData\", \"\/model\/metadata\"), (\"createCustomerModel\", \"\/customers\/create-customer-model\"), (\"getCustomerModel\", \"\/customers\/\")]"
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "Dictionary",
+      "offset": 446,
+      "length": 119,
+      "value": "[(\"yolo_v3_tiny\", \"fdcb8cc0-c1b4-49d2-8d18-37272f2478c6\"), (\"resnet_50\", \"38eddd42-9ecb-4de5-bcf7-53941effc4fd\")]"
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "IntegerLiteral",
+      "offset": 602,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 615,
+      "length": 7,
+      "value": "\"local\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 640,
+      "length": 19,
+      "value": "\"x-neuranestai-key\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 693,
+      "length": 9,
+      "value": "\"mlmodel\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelPredictor.swift",
+      "kind": "StringLiteral",
+      "offset": 391,
+      "length": 11,
+      "value": "\"resnet_50\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelPredictor.swift",
+      "kind": "StringLiteral",
+      "offset": 2416,
+      "length": 14,
+      "value": "\"yolo_v3_tiny\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1030,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}
