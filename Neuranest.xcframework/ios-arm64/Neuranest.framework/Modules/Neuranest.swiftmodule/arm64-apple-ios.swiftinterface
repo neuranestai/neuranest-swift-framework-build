@@ -10,6 +10,8 @@ import UIKit
 import Vision
 import _Concurrency
 import _StringProcessing
+import os.log
+import os
 public enum validEnvs : Swift.String {
   case local
   case dev

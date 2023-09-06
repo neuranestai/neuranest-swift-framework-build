@@ -1372,6 +1372,36 @@
         "moduleName": "Neuranest"
       },
       {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "Neuranest"
+      },
+      {
+        "kind": "Var",
+        "name": "customLog",
+        "printedName": "customLog",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "OSLog",
+            "printedName": "os.OSLog",
+            "usr": "c:objc(cs)OS_os_log"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9Neuranest9customLogSo9OS_os_logCvp",
+        "mangledName": "$s9Neuranest9customLogSo9OS_os_logCvp",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
         "kind": "TypeDecl",
         "name": "SDKConfig",
         "printedName": "SDKConfig",
@@ -2764,15 +2794,29 @@
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
+      "kind": "StringLiteral",
+      "offset": 107,
+      "length": 27,
+      "value": "\"com.yourapp.frameworkname\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
+      "kind": "StringLiteral",
+      "offset": 146,
+      "length": 14,
+      "value": "\"ModelLoading\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1186,
+      "offset": 1290,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7915,
+      "offset": 8019,
       "length": 5,
       "value": "false"
     }
