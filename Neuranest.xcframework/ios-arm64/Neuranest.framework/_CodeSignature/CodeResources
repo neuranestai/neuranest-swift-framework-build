@@ -14,19 +14,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6ZL4pGvg2FnRzTeFdY9PHUkMnak=
+		vkRsqw+z5g1bAMCzPUURJMCT/84=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		KtRyUxICOMNbXL/s+0WLgGPBeL4=
+		LDkQJW40BLTB1t+Hnaiy96aIlms=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		NDA6/xN/NGsPJta5CWwdez3MYZY=
+		nvqsAY6/TESJOp/oAjsnGG6C9nE=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		/OFPm/tagYfQViK79wxbOUg1u+c=
+		QlJFjfZkwPfZ4+XyEoGLudPwWUo=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		/OFPm/tagYfQViK79wxbOUg1u+c=
+		QlJFjfZkwPfZ4+XyEoGLudPwWUo=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		e2DTHwYpR+kwo4KFHNsmSM7Lj6A=
+		pBE5TKRPcYmEsqgTH9egF51uINs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,21 +65,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XHYSFT1rrq5ANWfrEjLAW2FUZnrzrJy+Lm9NAa6bMiM=
+			CBjCG9wX5KA2emoo2/Ezjb0QdYYT9yCz29g3yAgMzug=
 			</data>
 		</dict>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p/H1SxJhdqyxuzkBbFFJvulvXuXVGK6ICnFNBUtRCbk=
+			ByOcqZhwaIHZ1UCjPpzfyfWTc6VN4St4uGOm8McZZJ0=
 			</data>
 		</dict>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Pxyu+9F7Rhl9Jav/qLG9Fgyiu0G04FfgS6vEvHcE6g=
+			Ny81hV5bToN7KHXA+43o9o1Z9b9WxY5spibrzYkUEo8=
 			</data>
 		</dict>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Pxyu+9F7Rhl9Jav/qLG9Fgyiu0G04FfgS6vEvHcE6g=
+			Ny81hV5bToN7KHXA+43o9o1Z9b9WxY5spibrzYkUEo8=
 			</data>
 		</dict>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l2XM6HDM3ENG4zGzJGmE6Um1zlr5Xzv/sXFuxnpp344=
+			1CXLcMq454rkKnbE8zdmmbiCnd52zngvV9Af9bdIt1c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

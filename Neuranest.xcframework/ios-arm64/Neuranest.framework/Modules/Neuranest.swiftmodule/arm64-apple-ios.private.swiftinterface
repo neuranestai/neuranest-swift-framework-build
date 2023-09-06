@@ -49,6 +49,7 @@ public class NNModel {
   final public let modelId: Swift.String
   final public let isCustomerModel: Swift.Bool
   public init(named modelName: Swift.String, modelId: Swift.String, isCustomerModel: Swift.Bool = false, configManager: Neuranest.ConfigurationManager)
+  public func deleteModel() -> Swift.Bool
   public func getModel(completion: @escaping (CoreML.MLModel?) -> Swift.Void)
   public func loadModel(completion: @escaping (CoreML.MLModel?) -> Swift.Void)
   public func predict(data: [Swift.String : Any], completion: @escaping (Neuranest.ModelResult) -> Swift.Void)

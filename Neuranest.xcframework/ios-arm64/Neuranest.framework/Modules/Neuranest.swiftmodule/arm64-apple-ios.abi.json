@@ -185,6 +185,29 @@
         "hasStorage": true
       },
       {
+        "kind": "Var",
+        "name": "ML_FILE_EXTENSION_C",
+        "printedName": "ML_FILE_EXTENSION_C",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:9Neuranest19ML_FILE_EXTENSION_CSSvp",
+        "mangledName": "$s9Neuranest19ML_FILE_EXTENSION_CSSvp",
+        "moduleName": "Neuranest",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
         "kind": "TypeDecl",
         "name": "validEnvs",
         "printedName": "validEnvs",
@@ -2685,7 +2708,7 @@
       "kind": "IntegerLiteral",
       "offset": 596,
       "length": 2,
-      "value": "12"
+      "value": "10"
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
@@ -2704,70 +2727,77 @@
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 730,
+      "offset": 713,
+      "length": 10,
+      "value": "\"mlmodelc\""
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
+      "kind": "StringLiteral",
+      "offset": 775,
       "length": 7,
       "value": "\"local\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 753,
+      "offset": 798,
       "length": 5,
       "value": "\"dev\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 776,
+      "offset": 821,
       "length": 7,
       "value": "\"stage\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 803,
+      "offset": 848,
       "length": 9,
       "value": "\"sandbox\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 835,
+      "offset": 880,
       "length": 12,
       "value": "\"production\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 730,
+      "offset": 775,
       "length": 7,
       "value": "\"local\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 753,
+      "offset": 798,
       "length": 5,
       "value": "\"dev\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 776,
+      "offset": 821,
       "length": 7,
       "value": "\"stage\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 803,
+      "offset": 848,
       "length": 9,
       "value": "\"sandbox\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 835,
+      "offset": 880,
       "length": 12,
       "value": "\"production\""
     },
@@ -2789,27 +2819,27 @@
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
       "kind": "StringLiteral",
       "offset": 107,
-      "length": 27,
-      "value": "\"com.yourapp.frameworkname\""
+      "length": 25,
+      "value": "\"com.neuranest.neuranest\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
       "kind": "StringLiteral",
-      "offset": 146,
+      "offset": 144,
       "length": 14,
       "value": "\"ModelLoading\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1290,
+      "offset": 1288,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7939,
+      "offset": 7937,
       "length": 5,
       "value": "false"
     }
