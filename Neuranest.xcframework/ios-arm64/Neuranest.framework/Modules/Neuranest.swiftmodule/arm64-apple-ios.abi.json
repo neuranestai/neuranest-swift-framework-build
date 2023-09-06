@@ -2632,111 +2632,111 @@
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "Dictionary",
       "offset": 36,
-      "length": 135,
-      "value": "[(\"local\", \"http:\/\/127.0.0.1:8080\"), (\"dev\", \"https:\/\/dev.api.neuranestai.com\"), (\"prod\", \"https:\/\/prod.api.neuranestai.com\")]"
+      "length": 129,
+      "value": "[(\"local\", \"http:\/\/127.0.0.1:8080\"), (\"dev\", \"https:\/\/dev.api.neuranest.ai\"), (\"prod\", \"https:\/\/prod.api.neuranest.ai\")]"
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "Dictionary",
-      "offset": 206,
+      "offset": 200,
       "length": 201,
       "value": "[(\"listModels\", \"\/model\"), (\"getModel\", \"\/model\"), (\"getModelMetaData\", \"\/model\/metadata\"), (\"createCustomerModel\", \"\/customers\/create-customer-model\"), (\"getCustomerModel\", \"\/customers\/\")]"
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "Dictionary",
-      "offset": 446,
+      "offset": 440,
       "length": 119,
       "value": "[(\"yolo_v3_tiny\", \"fdcb8cc0-c1b4-49d2-8d18-37272f2478c6\"), (\"resnet_50\", \"38eddd42-9ecb-4de5-bcf7-53941effc4fd\")]"
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "IntegerLiteral",
-      "offset": 602,
+      "offset": 596,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 622,
+      "offset": 616,
       "length": 19,
       "value": "\"x-neuranestai-key\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 675,
+      "offset": 669,
       "length": 9,
       "value": "\"mlmodel\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 736,
+      "offset": 730,
       "length": 7,
       "value": "\"local\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 759,
+      "offset": 753,
       "length": 5,
       "value": "\"dev\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 782,
+      "offset": 776,
       "length": 7,
       "value": "\"stage\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 809,
+      "offset": 803,
       "length": 9,
       "value": "\"sandbox\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 841,
+      "offset": 835,
       "length": 12,
       "value": "\"production\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 736,
+      "offset": 730,
       "length": 7,
       "value": "\"local\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 759,
+      "offset": 753,
       "length": 5,
       "value": "\"dev\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 782,
+      "offset": 776,
       "length": 7,
       "value": "\"stage\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 809,
+      "offset": 803,
       "length": 9,
       "value": "\"sandbox\""
     },
     {
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/CONST.swift",
       "kind": "StringLiteral",
-      "offset": 841,
+      "offset": 835,
       "length": 12,
       "value": "\"production\""
     },

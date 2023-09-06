@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/Neuranest.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		uPLUspONYY9SGQB6pqeGUneFSJY=
+		Ugvo+wwYgqQmpz1ahCMpxnAsf3o=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		WjDioHJnOrYy3ePCUMSu1wLlJuc=
+		E0XtDNU2wjKbMqGly5OMJyb0wH4=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		AceBWe/WKYSXMZ6ezlynb25RE1w=
+		6+e8Wo1kd2kjSIho7+jjoihKOTA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lDXO2XrBJ2PJeyT2LowQ5GS+9CNcTP2deZqaI0hBA+8=
+			3QeV630XWgK6YW9eEkpXGoj1dC2jsRNub6LPLMaxtdU=
 			</data>
 		</dict>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			duuJn3LW89A/wYIbEJJUJYU0S2HijJMPl6qtUvImucU=
+			nu2DxN47I/cBTrm2b3nQFzgzCLOBjRkrmh0fhuFwLMk=
 			</data>
 		</dict>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p9x1miaXp9/KII3GLKzgQhln0XAvyWlPPpNKX7+GXA4=
+			BqTkx3wogTHQdzRKG9Eh7GHqHwWZiXokkpA6vExCtsg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
