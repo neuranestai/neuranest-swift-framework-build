@@ -2176,6 +2176,54 @@
           },
           {
             "kind": "Var",
+            "name": "isCustomerModel",
+            "printedName": "isCustomerModel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9Neuranest7NNModelC15isCustomerModelSbvp",
+            "mangledName": "$s9Neuranest7NNModelC15isCustomerModelSbvp",
+            "moduleName": "Neuranest",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9Neuranest7NNModelC15isCustomerModelSbvg",
+                "mangledName": "$s9Neuranest7NNModelC15isCustomerModelSbvg",
+                "moduleName": "Neuranest",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "model",
             "printedName": "model",
             "children": [
@@ -2239,7 +2287,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(named:modelId:configManager:)",
+            "printedName": "init(named:modelId:isCustomerModel:configManager:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2261,14 +2309,21 @@
               },
               {
                 "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
                 "name": "ConfigurationManager",
                 "printedName": "Neuranest.ConfigurationManager",
                 "usr": "s:9Neuranest20ConfigurationManagerC"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9Neuranest7NNModelC5named7modelId13configManagerACSS_SSAA013ConfigurationG0Ctcfc",
-            "mangledName": "$s9Neuranest7NNModelC5named7modelId13configManagerACSS_SSAA013ConfigurationG0Ctcfc",
+            "usr": "s:9Neuranest7NNModelC5named7modelId15isCustomerModel13configManagerACSS_SSSbAA013ConfigurationJ0Ctcfc",
+            "mangledName": "$s9Neuranest7NNModelC5named7modelId15isCustomerModel13configManagerACSS_SSSbAA013ConfigurationJ0Ctcfc",
             "moduleName": "Neuranest",
             "declAttributes": [
               "AccessControl"
@@ -2703,6 +2758,13 @@
       "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1186,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ahmed\/neuranest\/Neuranest\/Neuranest\/ModelManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7815,
       "length": 5,
       "value": "false"
     }
