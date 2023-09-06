@@ -2553,7 +2553,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Swift.Result<CoreML.MLModel, Swift.Error>) -> ()",
+                "printedName": "(CoreML.MLModel?) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -2562,30 +2562,24 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Result",
-                    "printedName": "Swift.Result<CoreML.MLModel, Swift.Error>",
+                    "name": "Optional",
+                    "printedName": "CoreML.MLModel?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "MLModel",
                         "printedName": "CoreML.MLModel",
                         "usr": "c:objc(cs)MLModel"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Error",
-                        "printedName": "Swift.Error",
-                        "usr": "s:s5ErrorP"
                       }
                     ],
-                    "usr": "s:s6ResultO"
+                    "usr": "s:Sq"
                   }
                 ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:9Neuranest7NNModelC9loadModel10completionyys6ResultOySo7MLModelCs5Error_pGc_tF",
-            "mangledName": "$s9Neuranest7NNModelC9loadModel10completionyys6ResultOySo7MLModelCs5Error_pGc_tF",
+            "usr": "s:9Neuranest7NNModelC9loadModel10completionyySo7MLModelCSgc_tF",
+            "mangledName": "$s9Neuranest7NNModelC9loadModel10completionyySo7MLModelCSgc_tF",
             "moduleName": "Neuranest",
             "isOpen": true,
             "declAttributes": [
@@ -2647,8 +2641,7 @@
             "moduleName": "Neuranest",
             "isOpen": true,
             "declAttributes": [
-              "AccessControl",
-              "RawDocComment"
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           }

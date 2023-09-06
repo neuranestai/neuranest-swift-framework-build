@@ -18,15 +18,15 @@
 		</data>
 		<key>Modules/Neuranest.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		nUE6xPnLYDQ2g9gVMgAzMvfV+Ak=
+		KtRyUxICOMNbXL/s+0WLgGPBeL4=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		yfgSNLHZ6c3Vs41DfieM60oeu08=
+		NDA6/xN/NGsPJta5CWwdez3MYZY=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		uevKLvzWEqVWGWyE1LoYSpc+600=
+		/OFPm/tagYfQViK79wxbOUg1u+c=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		uevKLvzWEqVWGWyE1LoYSpc+600=
+		/OFPm/tagYfQViK79wxbOUg1u+c=
 		</data>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QcbpU4vR9T+EbcZgbJkMAh+xwXc=
+		e2DTHwYpR+kwo4KFHNsmSM7Lj6A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,21 +65,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Ia1YM7t/NnTLsVYNxcwFHItPbQ/KX6lLTPJgy333Qg=
+			XHYSFT1rrq5ANWfrEjLAW2FUZnrzrJy+Lm9NAa6bMiM=
 			</data>
 		</dict>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LQeAA2PGwMCsf26rWG34yPjMysJ5Wr3uoy3WJv8MhR4=
+			p/H1SxJhdqyxuzkBbFFJvulvXuXVGK6ICnFNBUtRCbk=
 			</data>
 		</dict>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			spwiLWl6yfjRiHxILfykKEU+1NwjKWQB9L2xy6Y0FFc=
+			1Pxyu+9F7Rhl9Jav/qLG9Fgyiu0G04FfgS6vEvHcE6g=
 			</data>
 		</dict>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			spwiLWl6yfjRiHxILfykKEU+1NwjKWQB9L2xy6Y0FFc=
+			1Pxyu+9F7Rhl9Jav/qLG9Fgyiu0G04FfgS6vEvHcE6g=
 			</data>
 		</dict>
 		<key>Modules/Neuranest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fYHOyCaHLKSwTbUtVc/o+A1s9Ye+hm4s2f8+t3372hE=
+			l2XM6HDM3ENG4zGzJGmE6Um1zlr5Xzv/sXFuxnpp344=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
